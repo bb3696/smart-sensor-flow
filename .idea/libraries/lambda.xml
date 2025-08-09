@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lambda">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/terraform/lambda/lambda_deploy_model.zip!/" />
+      <root url="jar://$PROJECT_DIR$/terraform/lambda/lambda_trigger_training.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
